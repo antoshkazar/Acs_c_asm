@@ -1,0 +1,502 @@
+Filled container:
+Container contains 500 elements.
+1: It is a OOP Language: inheritance = 1, TIOBE - 54.000000, year - 1965, common - 655
+2: It is a Procedure Language: abstract = 1, TIOBE - 47.000000, year - 2007, common - 223
+3: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 45.000000, year - 1987, common - 198
+4: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 18.000000, year - 1973, common - 197
+5: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 7.000000, year - 2007, common - 200
+6: It is a Procedure Language: abstract = 1, TIOBE - 83.000000, year - 1972, common - 219
+7: It is a OOP Language: inheritance = 1, TIOBE - 46.000000, year - 1977, common - 659
+8: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 54.000000, year - 1997, common - 199
+9: It is a OOP Language: inheritance = 2, TIOBE - 47.000000, year - 1952, common - 650
+10: It is a Procedure Language: abstract = 1, TIOBE - 46.000000, year - 1968, common - 218
+11: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 48.000000, year - 1986, common - 198
+12: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 56.000000, year - 2002, common - 200
+13: It is a Procedure Language: abstract = 1, TIOBE - 56.000000, year - 2005, common - 222
+14: It is a Procedure Language: abstract = 1, TIOBE - 24.000000, year - 1998, common - 222
+15: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 86.000000, year - 1996, common - 199
+16: It is a OOP Language: inheritance = 0, TIOBE - 48.000000, year - 2005, common - 668
+17: It is a OOP Language: inheritance = 1, TIOBE - 82.000000, year - 1961, common - 653
+18: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 87.000000, year - 1964, common - 196
+19: It is a Procedure Language: abstract = 1, TIOBE - 34.000000, year - 1983, common - 220
+20: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 38.000000, year - 1991, common - 199
+21: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 3.000000, year - 2001, common - 200
+22: It is a Procedure Language: abstract = 1, TIOBE - 35.000000, year - 1982, common - 220
+23: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 25.000000, year - 1998, common - 199
+24: It is a Procedure Language: abstract = 1, TIOBE - 72.000000, year - 1964, common - 218
+25: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 37.000000, year - 1998, common - 199
+26: It is a OOP Language: inheritance = 0, TIOBE - 9.000000, year - 1984, common - 661
+27: It is a OOP Language: inheritance = 0, TIOBE - 20.000000, year - 1956, common - 652
+28: It is a OOP Language: inheritance = 1, TIOBE - 22.000000, year - 1967, common - 655
+29: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 25.000000, year - 1995, common - 199
+30: It is a Procedure Language: abstract = 1, TIOBE - 4.000000, year - 1981, common - 220
+31: It is a Procedure Language: abstract = 1, TIOBE - 51.000000, year - 1961, common - 217
+32: It is a Procedure Language: abstract = 0, TIOBE - 33.000000, year - 1997, common - 221
+33: It is a Procedure Language: abstract = 1, TIOBE - 68.000000, year - 1997, common - 221
+34: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 82.000000, year - 1957, common - 195
+35: It is a Procedure Language: abstract = 1, TIOBE - 83.000000, year - 2001, common - 222
+36: It is a Procedure Language: abstract = 1, TIOBE - 66.000000, year - 2002, common - 222
+37: It is a OOP Language: inheritance = 2, TIOBE - 39.000000, year - 1960, common - 653
+38: It is a OOP Language: inheritance = 1, TIOBE - 41.000000, year - 1971, common - 657
+39: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 75.000000, year - 1978, common - 197
+40: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 20.000000, year - 1983, common - 198
+41: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 14.000000, year - 1955, common - 195
+42: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 36.000000, year - 1993, common - 199
+43: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 9.000000, year - 1991, common - 199
+44: It is a OOP Language: inheritance = 2, TIOBE - 2.000000, year - 1956, common - 652
+45: It is a OOP Language: inheritance = 1, TIOBE - 56.000000, year - 1984, common - 661
+46: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 82.000000, year - 1982, common - 198
+47: It is a OOP Language: inheritance = 0, TIOBE - 10.000000, year - 1983, common - 661
+48: It is a OOP Language: inheritance = 1, TIOBE - 43.000000, year - 1991, common - 663
+49: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 25.000000, year - 1991, common - 199
+50: It is a Procedure Language: abstract = 1, TIOBE - 29.000000, year - 2005, common - 222
+51: It is a Procedure Language: abstract = 0, TIOBE - 11.000000, year - 1973, common - 219
+52: It is a OOP Language: inheritance = 2, TIOBE - 34.000000, year - 2002, common - 667
+53: It is a OOP Language: inheritance = 1, TIOBE - 20.000000, year - 1957, common - 652
+54: It is a OOP Language: inheritance = 2, TIOBE - 79.000000, year - 1953, common - 651
+55: It is a OOP Language: inheritance = 2, TIOBE - 66.000000, year - 1989, common - 663
+56: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 4.000000, year - 1988, common - 198
+57: It is a OOP Language: inheritance = 1, TIOBE - 48.000000, year - 1995, common - 665
+58: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 66.000000, year - 1991, common - 199
+59: It is a OOP Language: inheritance = 2, TIOBE - 25.000000, year - 1955, common - 651
+60: It is a Procedure Language: abstract = 0, TIOBE - 29.000000, year - 1977, common - 219
+61: It is a Procedure Language: abstract = 1, TIOBE - 8.000000, year - 1970, common - 218
+62: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 50.000000, year - 1959, common - 195
+63: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 43.000000, year - 1955, common - 195
+64: It is a Procedure Language: abstract = 1, TIOBE - 87.000000, year - 1961, common - 217
+65: It is a OOP Language: inheritance = 2, TIOBE - 27.000000, year - 1987, common - 662
+66: It is a Procedure Language: abstract = 0, TIOBE - 60.000000, year - 2006, common - 222
+67: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 65.000000, year - 1996, common - 199
+68: It is a OOP Language: inheritance = 1, TIOBE - 76.000000, year - 1963, common - 654
+69: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 76.000000, year - 1980, common - 198
+70: It is a Procedure Language: abstract = 1, TIOBE - 61.000000, year - 1990, common - 221
+71: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 63.000000, year - 2005, common - 200
+72: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 29.000000, year - 1998, common - 199
+73: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 27.000000, year - 2009, common - 200
+74: It is a OOP Language: inheritance = 2, TIOBE - 64.000000, year - 1971, common - 657
+75: It is a Procedure Language: abstract = 1, TIOBE - 64.000000, year - 1952, common - 216
+76: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 43.000000, year - 1975, common - 197
+77: It is a Procedure Language: abstract = 1, TIOBE - 90.000000, year - 1960, common - 217
+78: It is a Procedure Language: abstract = 1, TIOBE - 50.000000, year - 1987, common - 220
+79: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 18.000000, year - 1961, common - 196
+80: It is a Procedure Language: abstract = 1, TIOBE - 33.000000, year - 1993, common - 221
+81: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 1.000000, year - 2007, common - 200
+82: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 40.000000, year - 1969, common - 196
+83: It is a Procedure Language: abstract = 1, TIOBE - 15.000000, year - 1955, common - 217
+84: It is a Procedure Language: abstract = 0, TIOBE - 15.000000, year - 1993, common - 221
+85: It is a OOP Language: inheritance = 0, TIOBE - 42.000000, year - 1954, common - 651
+86: It is a OOP Language: inheritance = 1, TIOBE - 34.000000, year - 1953, common - 651
+87: It is a Procedure Language: abstract = 1, TIOBE - 1.000000, year - 1970, common - 218
+88: It is a Procedure Language: abstract = 0, TIOBE - 19.000000, year - 2007, common - 223
+89: It is a Procedure Language: abstract = 1, TIOBE - 27.000000, year - 1964, common - 218
+90: It is a Procedure Language: abstract = 1, TIOBE - 23.000000, year - 2002, common - 222
+91: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 62.000000, year - 1960, common - 196
+92: It is a Procedure Language: abstract = 1, TIOBE - 16.000000, year - 1960, common - 217
+93: It is a OOP Language: inheritance = 2, TIOBE - 24.000000, year - 1967, common - 655
+94: It is a Procedure Language: abstract = 1, TIOBE - 78.000000, year - 1963, common - 218
+95: It is a OOP Language: inheritance = 2, TIOBE - 14.000000, year - 1989, common - 663
+96: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 7.000000, year - 2002, common - 200
+97: It is a OOP Language: inheritance = 0, TIOBE - 34.000000, year - 2002, common - 667
+98: It is a Procedure Language: abstract = 0, TIOBE - 69.000000, year - 1981, common - 220
+99: It is a Procedure Language: abstract = 1, TIOBE - 30.000000, year - 1981, common - 220
+100: It is a Procedure Language: abstract = 0, TIOBE - 41.000000, year - 1959, common - 217
+101: It is a Procedure Language: abstract = 1, TIOBE - 19.000000, year - 1967, common - 218
+102: It is a Procedure Language: abstract = 1, TIOBE - 15.000000, year - 1962, common - 218
+103: It is a Procedure Language: abstract = 1, TIOBE - 87.000000, year - 1961, common - 217
+104: It is a OOP Language: inheritance = 0, TIOBE - 64.000000, year - 1970, common - 656
+105: It is a Procedure Language: abstract = 0, TIOBE - 73.000000, year - 1962, common - 218
+106: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 16.000000, year - 1997, common - 199
+107: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 5.000000, year - 1952, common - 195
+108: It is a OOP Language: inheritance = 0, TIOBE - 41.000000, year - 1988, common - 662
+109: It is a OOP Language: inheritance = 2, TIOBE - 15.000000, year - 1969, common - 656
+110: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 74.000000, year - 1962, common - 196
+111: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 74.000000, year - 1973, common - 197
+112: It is a Procedure Language: abstract = 1, TIOBE - 61.000000, year - 1961, common - 217
+113: It is a Procedure Language: abstract = 0, TIOBE - 74.000000, year - 2009, common - 223
+114: It is a Procedure Language: abstract = 0, TIOBE - 83.000000, year - 1963, common - 218
+115: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 56.000000, year - 1991, common - 199
+116: It is a OOP Language: inheritance = 2, TIOBE - 35.000000, year - 2007, common - 669
+117: It is a OOP Language: inheritance = 2, TIOBE - 18.000000, year - 1996, common - 665
+118: It is a OOP Language: inheritance = 0, TIOBE - 78.000000, year - 1960, common - 653
+119: It is a OOP Language: inheritance = 1, TIOBE - 85.000000, year - 1993, common - 664
+120: It is a Procedure Language: abstract = 0, TIOBE - 28.000000, year - 1975, common - 219
+121: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 42.000000, year - 1979, common - 197
+122: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 34.000000, year - 1984, common - 198
+123: It is a OOP Language: inheritance = 0, TIOBE - 26.000000, year - 2002, common - 667
+124: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 69.000000, year - 1998, common - 199
+125: It is a OOP Language: inheritance = 0, TIOBE - 57.000000, year - 1986, common - 662
+126: It is a Procedure Language: abstract = 0, TIOBE - 25.000000, year - 1976, common - 219
+127: It is a OOP Language: inheritance = 0, TIOBE - 16.000000, year - 1967, common - 655
+128: It is a OOP Language: inheritance = 2, TIOBE - 33.000000, year - 1970, common - 656
+129: It is a OOP Language: inheritance = 2, TIOBE - 63.000000, year - 2006, common - 668
+130: It is a OOP Language: inheritance = 1, TIOBE - 61.000000, year - 2008, common - 669
+131: It is a Procedure Language: abstract = 1, TIOBE - 15.000000, year - 1962, common - 218
+132: It is a OOP Language: inheritance = 2, TIOBE - 40.000000, year - 1999, common - 666
+133: It is a Procedure Language: abstract = 1, TIOBE - 55.000000, year - 1956, common - 217
+134: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 51.000000, year - 2005, common - 200
+135: It is a Procedure Language: abstract = 1, TIOBE - 18.000000, year - 2003, common - 222
+136: It is a OOP Language: inheritance = 1, TIOBE - 69.000000, year - 1952, common - 650
+137: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 47.000000, year - 1995, common - 199
+138: It is a Procedure Language: abstract = 1, TIOBE - 5.000000, year - 1991, common - 221
+139: It is a OOP Language: inheritance = 2, TIOBE - 26.000000, year - 1971, common - 657
+140: It is a OOP Language: inheritance = 0, TIOBE - 15.000000, year - 1967, common - 655
+141: It is a OOP Language: inheritance = 2, TIOBE - 76.000000, year - 2002, common - 667
+142: It is a OOP Language: inheritance = 2, TIOBE - 60.000000, year - 1983, common - 661
+143: It is a OOP Language: inheritance = 0, TIOBE - 53.000000, year - 2004, common - 668
+144: It is a OOP Language: inheritance = 2, TIOBE - 38.000000, year - 1985, common - 661
+145: It is a Procedure Language: abstract = 1, TIOBE - 1.000000, year - 1957, common - 217
+146: It is a OOP Language: inheritance = 2, TIOBE - 84.000000, year - 1951, common - 650
+147: It is a Procedure Language: abstract = 1, TIOBE - 49.000000, year - 1989, common - 221
+148: It is a Procedure Language: abstract = 0, TIOBE - 65.000000, year - 1966, common - 218
+149: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 6.000000, year - 1969, common - 196
+150: It is a Procedure Language: abstract = 0, TIOBE - 43.000000, year - 2008, common - 223
+151: It is a OOP Language: inheritance = 0, TIOBE - 23.000000, year - 1996, common - 665
+152: It is a Procedure Language: abstract = 1, TIOBE - 73.000000, year - 1986, common - 220
+153: It is a Procedure Language: abstract = 0, TIOBE - 64.000000, year - 1951, common - 216
+154: It is a Procedure Language: abstract = 0, TIOBE - 68.000000, year - 1969, common - 218
+155: It is a OOP Language: inheritance = 2, TIOBE - 81.000000, year - 1959, common - 653
+156: It is a Procedure Language: abstract = 1, TIOBE - 43.000000, year - 1963, common - 218
+157: It is a Procedure Language: abstract = 1, TIOBE - 20.000000, year - 1985, common - 220
+158: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 18.000000, year - 1968, common - 196
+159: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 22.000000, year - 1999, common - 199
+160: It is a Procedure Language: abstract = 1, TIOBE - 48.000000, year - 2001, common - 222
+161: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 18.000000, year - 1956, common - 195
+162: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 3.000000, year - 1981, common - 198
+163: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 70.000000, year - 1973, common - 197
+164: It is a Procedure Language: abstract = 1, TIOBE - 25.000000, year - 1981, common - 220
+165: It is a OOP Language: inheritance = 1, TIOBE - 4.000000, year - 1954, common - 651
+166: It is a Procedure Language: abstract = 0, TIOBE - 72.000000, year - 1999, common - 222
+167: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 31.000000, year - 2003, common - 200
+168: It is a Procedure Language: abstract = 1, TIOBE - 9.000000, year - 1985, common - 220
+169: It is a Procedure Language: abstract = 1, TIOBE - 9.000000, year - 1953, common - 217
+170: It is a Procedure Language: abstract = 1, TIOBE - 83.000000, year - 2009, common - 223
+171: It is a OOP Language: inheritance = 2, TIOBE - 90.000000, year - 1975, common - 658
+172: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 74.000000, year - 2003, common - 200
+173: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 19.000000, year - 1973, common - 197
+174: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 65.000000, year - 1960, common - 196
+175: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 84.000000, year - 1974, common - 197
+176: It is a OOP Language: inheritance = 1, TIOBE - 47.000000, year - 1971, common - 657
+177: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 90.000000, year - 2000, common - 200
+178: It is a OOP Language: inheritance = 0, TIOBE - 49.000000, year - 2008, common - 669
+179: It is a Procedure Language: abstract = 1, TIOBE - 19.000000, year - 1997, common - 221
+180: It is a Procedure Language: abstract = 0, TIOBE - 13.000000, year - 1964, common - 218
+181: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 20.000000, year - 1970, common - 197
+182: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 5.000000, year - 1966, common - 196
+183: It is a OOP Language: inheritance = 2, TIOBE - 73.000000, year - 1986, common - 662
+184: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 59.000000, year - 1950, common - 195
+185: It is a OOP Language: inheritance = 0, TIOBE - 41.000000, year - 1983, common - 661
+186: It is a Procedure Language: abstract = 1, TIOBE - 45.000000, year - 1953, common - 217
+187: It is a Procedure Language: abstract = 0, TIOBE - 74.000000, year - 1954, common - 217
+188: It is a Procedure Language: abstract = 1, TIOBE - 32.000000, year - 2008, common - 223
+189: It is a OOP Language: inheritance = 2, TIOBE - 52.000000, year - 1996, common - 665
+190: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 90.000000, year - 1971, common - 197
+191: It is a OOP Language: inheritance = 2, TIOBE - 79.000000, year - 2004, common - 668
+192: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 2.000000, year - 1971, common - 197
+193: It is a OOP Language: inheritance = 1, TIOBE - 87.000000, year - 1988, common - 662
+194: It is a OOP Language: inheritance = 0, TIOBE - 60.000000, year - 2007, common - 669
+195: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 86.000000, year - 1996, common - 199
+196: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 28.000000, year - 1991, common - 199
+197: It is a Procedure Language: abstract = 0, TIOBE - 23.000000, year - 1978, common - 219
+198: It is a OOP Language: inheritance = 2, TIOBE - 22.000000, year - 1969, common - 656
+199: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 61.000000, year - 2000, common - 200
+200: It is a OOP Language: inheritance = 0, TIOBE - 46.000000, year - 2005, common - 668
+201: It is a OOP Language: inheritance = 0, TIOBE - 3.000000, year - 1981, common - 660
+202: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 14.000000, year - 1989, common - 198
+203: It is a Procedure Language: abstract = 1, TIOBE - 89.000000, year - 1993, common - 221
+204: It is a OOP Language: inheritance = 1, TIOBE - 60.000000, year - 1960, common - 653
+205: It is a OOP Language: inheritance = 0, TIOBE - 46.000000, year - 1999, common - 666
+206: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 43.000000, year - 1972, common - 197
+207: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 11.000000, year - 2007, common - 200
+208: It is a Procedure Language: abstract = 0, TIOBE - 75.000000, year - 1976, common - 219
+209: It is a OOP Language: inheritance = 1, TIOBE - 60.000000, year - 2003, common - 667
+210: It is a OOP Language: inheritance = 1, TIOBE - 31.000000, year - 1967, common - 655
+211: It is a OOP Language: inheritance = 2, TIOBE - 10.000000, year - 1994, common - 664
+212: It is a OOP Language: inheritance = 1, TIOBE - 23.000000, year - 1962, common - 654
+213: It is a OOP Language: inheritance = 2, TIOBE - 15.000000, year - 1998, common - 666
+214: It is a OOP Language: inheritance = 2, TIOBE - 26.000000, year - 1956, common - 652
+215: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 5.000000, year - 1990, common - 199
+216: It is a OOP Language: inheritance = 1, TIOBE - 12.000000, year - 1990, common - 663
+217: It is a Procedure Language: abstract = 0, TIOBE - 57.000000, year - 1968, common - 218
+218: It is a Procedure Language: abstract = 0, TIOBE - 33.000000, year - 1968, common - 218
+219: It is a Procedure Language: abstract = 1, TIOBE - 19.000000, year - 1993, common - 221
+220: It is a Procedure Language: abstract = 1, TIOBE - 28.000000, year - 1981, common - 220
+221: It is a Procedure Language: abstract = 1, TIOBE - 43.000000, year - 1950, common - 216
+222: It is a Procedure Language: abstract = 0, TIOBE - 15.000000, year - 1956, common - 217
+223: It is a Procedure Language: abstract = 1, TIOBE - 79.000000, year - 1956, common - 217
+224: It is a Procedure Language: abstract = 0, TIOBE - 67.000000, year - 1989, common - 221
+225: It is a Procedure Language: abstract = 1, TIOBE - 29.000000, year - 1957, common - 217
+226: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 38.000000, year - 1999, common - 199
+227: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 21.000000, year - 1969, common - 196
+228: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 82.000000, year - 1985, common - 198
+229: It is a Procedure Language: abstract = 0, TIOBE - 1.000000, year - 1965, common - 218
+230: It is a Procedure Language: abstract = 0, TIOBE - 75.000000, year - 1956, common - 217
+231: It is a OOP Language: inheritance = 0, TIOBE - 42.000000, year - 1962, common - 654
+232: It is a OOP Language: inheritance = 0, TIOBE - 71.000000, year - 1962, common - 654
+233: It is a OOP Language: inheritance = 2, TIOBE - 68.000000, year - 1963, common - 654
+234: It is a Procedure Language: abstract = 0, TIOBE - 27.000000, year - 1975, common - 219
+235: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 55.000000, year - 1986, common - 198
+236: It is a OOP Language: inheritance = 2, TIOBE - 88.000000, year - 1961, common - 653
+237: It is a OOP Language: inheritance = 0, TIOBE - 70.000000, year - 1956, common - 652
+238: It is a OOP Language: inheritance = 0, TIOBE - 8.000000, year - 1990, common - 663
+239: It is a OOP Language: inheritance = 1, TIOBE - 8.000000, year - 2006, common - 668
+240: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 19.000000, year - 1979, common - 197
+241: It is a OOP Language: inheritance = 1, TIOBE - 14.000000, year - 1959, common - 653
+242: It is a OOP Language: inheritance = 0, TIOBE - 43.000000, year - 1968, common - 656
+243: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 63.000000, year - 1965, common - 196
+244: It is a OOP Language: inheritance = 2, TIOBE - 30.000000, year - 2008, common - 669
+245: It is a Procedure Language: abstract = 0, TIOBE - 40.000000, year - 2002, common - 222
+246: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 77.000000, year - 1954, common - 195
+247: It is a Procedure Language: abstract = 0, TIOBE - 47.000000, year - 1961, common - 217
+248: It is a Procedure Language: abstract = 1, TIOBE - 77.000000, year - 1973, common - 219
+249: It is a OOP Language: inheritance = 1, TIOBE - 76.000000, year - 1972, common - 657
+250: It is a OOP Language: inheritance = 1, TIOBE - 48.000000, year - 1968, common - 656
+251: It is a Procedure Language: abstract = 0, TIOBE - 13.000000, year - 1963, common - 218
+252: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 33.000000, year - 1983, common - 198
+253: It is a Procedure Language: abstract = 1, TIOBE - 78.000000, year - 1967, common - 218
+254: It is a OOP Language: inheritance = 2, TIOBE - 57.000000, year - 2008, common - 669
+255: It is a Procedure Language: abstract = 1, TIOBE - 9.000000, year - 1967, common - 218
+256: It is a Procedure Language: abstract = 0, TIOBE - 18.000000, year - 1960, common - 217
+257: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 28.000000, year - 1981, common - 198
+258: It is a OOP Language: inheritance = 0, TIOBE - 89.000000, year - 1960, common - 653
+259: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 21.000000, year - 1962, common - 196
+260: It is a Procedure Language: abstract = 1, TIOBE - 71.000000, year - 1977, common - 219
+261: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 57.000000, year - 2009, common - 200
+262: It is a OOP Language: inheritance = 2, TIOBE - 49.000000, year - 1998, common - 666
+263: It is a Procedure Language: abstract = 0, TIOBE - 85.000000, year - 1986, common - 220
+264: It is a Procedure Language: abstract = 1, TIOBE - 37.000000, year - 1950, common - 216
+265: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 69.000000, year - 1987, common - 198
+266: It is a Procedure Language: abstract = 0, TIOBE - 51.000000, year - 1990, common - 221
+267: It is a Procedure Language: abstract = 0, TIOBE - 90.000000, year - 2005, common - 222
+268: It is a Procedure Language: abstract = 1, TIOBE - 48.000000, year - 1973, common - 219
+269: It is a OOP Language: inheritance = 2, TIOBE - 82.000000, year - 2006, common - 668
+270: It is a Procedure Language: abstract = 1, TIOBE - 52.000000, year - 1960, common - 217
+271: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 89.000000, year - 1971, common - 197
+272: It is a Procedure Language: abstract = 1, TIOBE - 74.000000, year - 1955, common - 217
+273: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 3.000000, year - 1967, common - 196
+274: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 69.000000, year - 1979, common - 197
+275: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 2.000000, year - 2002, common - 200
+276: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 70.000000, year - 1974, common - 197
+277: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 84.000000, year - 1996, common - 199
+278: It is a OOP Language: inheritance = 0, TIOBE - 46.000000, year - 1992, common - 664
+279: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 32.000000, year - 2006, common - 200
+280: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 70.000000, year - 1995, common - 199
+281: It is a OOP Language: inheritance = 0, TIOBE - 87.000000, year - 1987, common - 662
+282: It is a OOP Language: inheritance = 0, TIOBE - 74.000000, year - 2000, common - 666
+283: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 66.000000, year - 1984, common - 198
+284: It is a OOP Language: inheritance = 0, TIOBE - 61.000000, year - 1982, common - 660
+285: It is a Procedure Language: abstract = 0, TIOBE - 59.000000, year - 1965, common - 218
+286: It is a OOP Language: inheritance = 0, TIOBE - 34.000000, year - 1977, common - 659
+287: It is a OOP Language: inheritance = 0, TIOBE - 90.000000, year - 1980, common - 660
+288: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 16.000000, year - 2009, common - 200
+289: It is a Procedure Language: abstract = 1, TIOBE - 90.000000, year - 1981, common - 220
+290: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 17.000000, year - 1974, common - 197
+291: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 78.000000, year - 1958, common - 195
+292: It is a OOP Language: inheritance = 0, TIOBE - 34.000000, year - 1977, common - 659
+293: It is a Procedure Language: abstract = 1, TIOBE - 53.000000, year - 2005, common - 222
+294: It is a OOP Language: inheritance = 0, TIOBE - 89.000000, year - 2003, common - 667
+295: It is a Procedure Language: abstract = 0, TIOBE - 69.000000, year - 1974, common - 219
+296: It is a OOP Language: inheritance = 0, TIOBE - 38.000000, year - 1970, common - 656
+297: It is a OOP Language: inheritance = 2, TIOBE - 45.000000, year - 1992, common - 664
+298: It is a OOP Language: inheritance = 1, TIOBE - 40.000000, year - 1978, common - 659
+299: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 74.000000, year - 1978, common - 197
+300: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 51.000000, year - 1987, common - 198
+301: It is a OOP Language: inheritance = 2, TIOBE - 84.000000, year - 1954, common - 651
+302: It is a OOP Language: inheritance = 0, TIOBE - 48.000000, year - 1983, common - 661
+303: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 22.000000, year - 1965, common - 196
+304: It is a Procedure Language: abstract = 1, TIOBE - 86.000000, year - 1954, common - 217
+305: It is a Procedure Language: abstract = 0, TIOBE - 25.000000, year - 1972, common - 219
+306: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 7.000000, year - 2008, common - 200
+307: It is a OOP Language: inheritance = 0, TIOBE - 34.000000, year - 1979, common - 659
+308: It is a OOP Language: inheritance = 2, TIOBE - 48.000000, year - 1990, common - 663
+309: It is a Procedure Language: abstract = 0, TIOBE - 14.000000, year - 1971, common - 219
+310: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 16.000000, year - 1950, common - 195
+311: It is a Procedure Language: abstract = 1, TIOBE - 9.000000, year - 1968, common - 218
+312: It is a Procedure Language: abstract = 0, TIOBE - 22.000000, year - 2006, common - 222
+313: It is a OOP Language: inheritance = 2, TIOBE - 41.000000, year - 1969, common - 656
+314: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 36.000000, year - 1984, common - 198
+315: It is a Procedure Language: abstract = 1, TIOBE - 7.000000, year - 1997, common - 221
+316: It is a OOP Language: inheritance = 2, TIOBE - 54.000000, year - 1959, common - 653
+317: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 4.000000, year - 1964, common - 196
+318: It is a OOP Language: inheritance = 2, TIOBE - 13.000000, year - 1970, common - 656
+319: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 25.000000, year - 1996, common - 199
+320: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 49.000000, year - 1955, common - 195
+321: It is a Procedure Language: abstract = 0, TIOBE - 32.000000, year - 1996, common - 221
+322: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 7.000000, year - 2009, common - 200
+323: It is a Procedure Language: abstract = 0, TIOBE - 55.000000, year - 1971, common - 219
+324: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 71.000000, year - 1959, common - 195
+325: It is a OOP Language: inheritance = 0, TIOBE - 7.000000, year - 1961, common - 653
+326: It is a OOP Language: inheritance = 2, TIOBE - 46.000000, year - 1985, common - 661
+327: It is a OOP Language: inheritance = 2, TIOBE - 72.000000, year - 1963, common - 654
+328: It is a OOP Language: inheritance = 0, TIOBE - 32.000000, year - 2007, common - 669
+329: It is a OOP Language: inheritance = 2, TIOBE - 29.000000, year - 1951, common - 650
+330: It is a Procedure Language: abstract = 1, TIOBE - 21.000000, year - 2000, common - 222
+331: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 26.000000, year - 2006, common - 200
+332: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 83.000000, year - 1994, common - 199
+333: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 19.000000, year - 1958, common - 195
+334: It is a OOP Language: inheritance = 0, TIOBE - 21.000000, year - 1987, common - 662
+335: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 71.000000, year - 1958, common - 195
+336: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 21.000000, year - 1981, common - 198
+337: It is a Procedure Language: abstract = 1, TIOBE - 7.000000, year - 1977, common - 219
+338: It is a OOP Language: inheritance = 2, TIOBE - 33.000000, year - 1984, common - 661
+339: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 12.000000, year - 1951, common - 195
+340: It is a OOP Language: inheritance = 2, TIOBE - 3.000000, year - 1990, common - 663
+341: It is a OOP Language: inheritance = 0, TIOBE - 69.000000, year - 1973, common - 657
+342: It is a Procedure Language: abstract = 1, TIOBE - 27.000000, year - 1975, common - 219
+343: It is a Procedure Language: abstract = 1, TIOBE - 36.000000, year - 1965, common - 218
+344: It is a OOP Language: inheritance = 0, TIOBE - 37.000000, year - 1963, common - 654
+345: It is a Procedure Language: abstract = 0, TIOBE - 48.000000, year - 1993, common - 221
+346: It is a OOP Language: inheritance = 2, TIOBE - 49.000000, year - 1992, common - 664
+347: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 70.000000, year - 2002, common - 200
+348: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 89.000000, year - 1998, common - 199
+349: It is a Procedure Language: abstract = 0, TIOBE - 43.000000, year - 1988, common - 220
+350: It is a OOP Language: inheritance = 0, TIOBE - 4.000000, year - 1987, common - 662
+351: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 32.000000, year - 1950, common - 195
+352: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 33.000000, year - 1960, common - 196
+353: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 80.000000, year - 1980, common - 198
+354: It is a Procedure Language: abstract = 1, TIOBE - 20.000000, year - 2008, common - 223
+355: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 75.000000, year - 1979, common - 197
+356: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 59.000000, year - 1956, common - 195
+357: It is a Procedure Language: abstract = 0, TIOBE - 63.000000, year - 1999, common - 222
+358: It is a OOP Language: inheritance = 0, TIOBE - 15.000000, year - 1958, common - 652
+359: It is a OOP Language: inheritance = 0, TIOBE - 75.000000, year - 1963, common - 654
+360: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 22.000000, year - 1986, common - 198
+361: It is a Procedure Language: abstract = 1, TIOBE - 85.000000, year - 2003, common - 222
+362: It is a OOP Language: inheritance = 2, TIOBE - 81.000000, year - 1967, common - 655
+363: It is a OOP Language: inheritance = 2, TIOBE - 67.000000, year - 1970, common - 656
+364: It is a OOP Language: inheritance = 1, TIOBE - 31.000000, year - 1992, common - 664
+365: It is a Procedure Language: abstract = 0, TIOBE - 39.000000, year - 1972, common - 219
+366: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 49.000000, year - 1972, common - 197
+367: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 66.000000, year - 1965, common - 196
+368: It is a OOP Language: inheritance = 0, TIOBE - 20.000000, year - 1968, common - 656
+369: It is a OOP Language: inheritance = 1, TIOBE - 73.000000, year - 1964, common - 654
+370: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 17.000000, year - 1957, common - 195
+371: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 47.000000, year - 1966, common - 196
+372: It is a OOP Language: inheritance = 0, TIOBE - 37.000000, year - 1989, common - 663
+373: It is a OOP Language: inheritance = 0, TIOBE - 23.000000, year - 1961, common - 653
+374: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 75.000000, year - 1968, common - 196
+375: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 37.000000, year - 1978, common - 197
+376: It is a OOP Language: inheritance = 1, TIOBE - 17.000000, year - 1968, common - 656
+377: It is a Procedure Language: abstract = 0, TIOBE - 14.000000, year - 1978, common - 219
+378: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 66.000000, year - 1978, common - 197
+379: It is a Procedure Language: abstract = 1, TIOBE - 87.000000, year - 1993, common - 221
+380: It is a OOP Language: inheritance = 2, TIOBE - 88.000000, year - 1961, common - 653
+381: It is a Procedure Language: abstract = 1, TIOBE - 57.000000, year - 1989, common - 221
+382: It is a Procedure Language: abstract = 1, TIOBE - 75.000000, year - 1972, common - 219
+383: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 26.000000, year - 1974, common - 197
+384: It is a Procedure Language: abstract = 0, TIOBE - 69.000000, year - 1983, common - 220
+385: It is a OOP Language: inheritance = 2, TIOBE - 26.000000, year - 1982, common - 660
+386: It is a OOP Language: inheritance = 2, TIOBE - 68.000000, year - 1951, common - 650
+387: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 36.000000, year - 1991, common - 199
+388: It is a Procedure Language: abstract = 1, TIOBE - 21.000000, year - 1977, common - 219
+389: It is a Procedure Language: abstract = 1, TIOBE - 25.000000, year - 2007, common - 223
+390: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 65.000000, year - 1967, common - 196
+391: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 17.000000, year - 1951, common - 195
+392: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 84.000000, year - 1994, common - 199
+393: It is a OOP Language: inheritance = 2, TIOBE - 33.000000, year - 1998, common - 666
+394: It is a Procedure Language: abstract = 0, TIOBE - 19.000000, year - 1956, common - 217
+395: It is a Procedure Language: abstract = 0, TIOBE - 74.000000, year - 1972, common - 219
+396: It is a Procedure Language: abstract = 0, TIOBE - 41.000000, year - 2005, common - 222
+397: It is a Procedure Language: abstract = 1, TIOBE - 54.000000, year - 1981, common - 220
+398: It is a Procedure Language: abstract = 0, TIOBE - 33.000000, year - 2008, common - 223
+399: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 21.000000, year - 1966, common - 196
+400: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 46.000000, year - 1967, common - 196
+401: It is a Procedure Language: abstract = 1, TIOBE - 85.000000, year - 2003, common - 222
+402: It is a OOP Language: inheritance = 0, TIOBE - 64.000000, year - 1988, common - 662
+403: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 8.000000, year - 1966, common - 196
+404: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 8.000000, year - 1976, common - 197
+405: It is a Procedure Language: abstract = 0, TIOBE - 2.000000, year - 1952, common - 216
+406: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 69.000000, year - 1960, common - 196
+407: It is a OOP Language: inheritance = 0, TIOBE - 68.000000, year - 1967, common - 655
+408: It is a OOP Language: inheritance = 0, TIOBE - 24.000000, year - 1962, common - 654
+409: It is a Procedure Language: abstract = 1, TIOBE - 54.000000, year - 1995, common - 221
+410: It is a Procedure Language: abstract = 0, TIOBE - 72.000000, year - 1978, common - 219
+411: It is a Procedure Language: abstract = 0, TIOBE - 26.000000, year - 1974, common - 219
+412: It is a Procedure Language: abstract = 0, TIOBE - 30.000000, year - 1964, common - 218
+413: It is a Procedure Language: abstract = 1, TIOBE - 32.000000, year - 1991, common - 221
+414: It is a OOP Language: inheritance = 2, TIOBE - 51.000000, year - 1979, common - 659
+415: It is a Procedure Language: abstract = 0, TIOBE - 58.000000, year - 1953, common - 217
+416: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 11.000000, year - 1998, common - 199
+417: It is a OOP Language: inheritance = 2, TIOBE - 11.000000, year - 2002, common - 667
+418: It is a OOP Language: inheritance = 2, TIOBE - 61.000000, year - 1958, common - 652
+419: It is a OOP Language: inheritance = 0, TIOBE - 45.000000, year - 1977, common - 659
+420: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 76.000000, year - 2009, common - 200
+421: It is a Procedure Language: abstract = 1, TIOBE - 83.000000, year - 1985, common - 220
+422: It is a OOP Language: inheritance = 0, TIOBE - 13.000000, year - 1956, common - 652
+423: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 81.000000, year - 1978, common - 197
+424: It is a OOP Language: inheritance = 2, TIOBE - 49.000000, year - 1950, common - 650
+425: It is a Procedure Language: abstract = 0, TIOBE - 90.000000, year - 1953, common - 217
+426: It is a Procedure Language: abstract = 0, TIOBE - 38.000000, year - 1996, common - 221
+427: It is a Procedure Language: abstract = 0, TIOBE - 60.000000, year - 2007, common - 223
+428: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 68.000000, year - 1969, common - 196
+429: It is a Procedure Language: abstract = 1, TIOBE - 42.000000, year - 1962, common - 218
+430: It is a OOP Language: inheritance = 0, TIOBE - 90.000000, year - 2001, common - 667
+431: It is a Procedure Language: abstract = 0, TIOBE - 90.000000, year - 1994, common - 221
+432: It is a Procedure Language: abstract = 0, TIOBE - 52.000000, year - 1991, common - 221
+433: It is a OOP Language: inheritance = 2, TIOBE - 35.000000, year - 1978, common - 659
+434: It is a OOP Language: inheritance = 0, TIOBE - 6.000000, year - 1961, common - 653
+435: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 1.000000, year - 1979, common - 197
+436: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 88.000000, year - 1954, common - 195
+437: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 7.000000, year - 2002, common - 200
+438: It is a OOP Language: inheritance = 1, TIOBE - 27.000000, year - 1974, common - 658
+439: It is a Procedure Language: abstract = 0, TIOBE - 80.000000, year - 1976, common - 219
+440: It is a OOP Language: inheritance = 1, TIOBE - 55.000000, year - 1950, common - 650
+441: It is a OOP Language: inheritance = 0, TIOBE - 81.000000, year - 2005, common - 668
+442: It is a OOP Language: inheritance = 1, TIOBE - 69.000000, year - 1978, common - 659
+443: It is a Procedure Language: abstract = 0, TIOBE - 75.000000, year - 1976, common - 219
+444: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 51.000000, year - 1972, common - 197
+445: It is a OOP Language: inheritance = 0, TIOBE - 85.000000, year - 1968, common - 656
+446: It is a Procedure Language: abstract = 1, TIOBE - 4.000000, year - 1977, common - 219
+447: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 65.000000, year - 1956, common - 195
+448: It is a OOP Language: inheritance = 1, TIOBE - 12.000000, year - 1972, common - 657
+449: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 12.000000, year - 1999, common - 199
+450: It is a OOP Language: inheritance = 2, TIOBE - 86.000000, year - 1950, common - 650
+451: It is a Procedure Language: abstract = 1, TIOBE - 38.000000, year - 1987, common - 220
+452: It is a Procedure Language: abstract = 1, TIOBE - 8.000000, year - 1988, common - 220
+453: It is a OOP Language: inheritance = 0, TIOBE - 44.000000, year - 1989, common - 663
+454: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 21.000000, year - 2004, common - 200
+455: It is a OOP Language: inheritance = 1, TIOBE - 1.000000, year - 1985, common - 661
+456: It is a Procedure Language: abstract = 1, TIOBE - 30.000000, year - 1961, common - 217
+457: It is a OOP Language: inheritance = 1, TIOBE - 39.000000, year - 2006, common - 668
+458: It is a OOP Language: inheritance = 2, TIOBE - 46.000000, year - 1960, common - 653
+459: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 49.000000, year - 1956, common - 195
+460: It is a OOP Language: inheritance = 0, TIOBE - 60.000000, year - 1996, common - 665
+461: It is a Procedure Language: abstract = 1, TIOBE - 31.000000, year - 1996, common - 221
+462: It is a Procedure Language: abstract = 0, TIOBE - 30.000000, year - 1980, common - 220
+463: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 2.000000, year - 1954, common - 195
+464: It is a Procedure Language: abstract = 1, TIOBE - 73.000000, year - 2002, common - 222
+465: It is a OOP Language: inheritance = 1, TIOBE - 86.000000, year - 1951, common - 650
+466: It is a Procedure Language: abstract = 0, TIOBE - 67.000000, year - 1985, common - 220
+467: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 33.000000, year - 1976, common - 197
+468: It is a OOP Language: inheritance = 2, TIOBE - 80.000000, year - 2001, common - 667
+469: It is a Procedure Language: abstract = 0, TIOBE - 34.000000, year - 1960, common - 217
+470: It is a Procedure Language: abstract = 1, TIOBE - 68.000000, year - 1980, common - 220
+471: It is a Procedure Language: abstract = 1, TIOBE - 45.000000, year - 1984, common - 220
+472: It is a Procedure Language: abstract = 1, TIOBE - 54.000000, year - 1996, common - 221
+473: It is a Procedure Language: abstract = 1, TIOBE - 70.000000, year - 1994, common - 221
+474: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 26.000000, year - 2002, common - 200
+475: It is a Procedure Language: abstract = 1, TIOBE - 55.000000, year - 1981, common - 220
+476: It is a Procedure Language: abstract = 1, TIOBE - 88.000000, year - 2003, common - 222
+477: It is a Procedure Language: abstract = 0, TIOBE - 53.000000, year - 2007, common - 223
+478: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 9.000000, year - 2003, common - 200
+479: It is a Procedure Language: abstract = 0, TIOBE - 51.000000, year - 2006, common - 222
+480: It is a Procedure Language: abstract = 0, TIOBE - 30.000000, year - 1991, common - 221
+481: It is a Procedure Language: abstract = 1, TIOBE - 35.000000, year - 1972, common - 219
+482: It is a Procedure Language: abstract = 0, TIOBE - 64.000000, year - 1991, common - 221
+483: It is a OOP Language: inheritance = 0, TIOBE - 45.000000, year - 1992, common - 664
+484: It is a Procedure Language: abstract = 1, TIOBE - 27.000000, year - 1975, common - 219
+485: It is a OOP Language: inheritance = 0, TIOBE - 88.000000, year - 1956, common - 652
+486: It is a Procedure Language: abstract = 1, TIOBE - 24.000000, year - 1963, common - 218
+487: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 90.000000, year - 1986, common - 198
+488: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 35.000000, year - 1975, common - 197
+489: It is a Procedure Language: abstract = 0, TIOBE - 28.000000, year - 1950, common - 216
+490: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 74.000000, year - 1996, common - 199
+491: It is a Procedure Language: abstract = 0, TIOBE - 61.000000, year - 2003, common - 222
+492: It is a Procedure Language: abstract = 0, TIOBE - 18.000000, year - 1981, common - 220
+493: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 73.000000, year - 1971, common - 197
+494: It is a Functional Language: typization = 0, lazy = 0, TIOBE - 46.000000, year - 1961, common - 196
+495: It is a OOP Language: inheritance = 1, TIOBE - 10.000000, year - 1954, common - 651
+496: It is a OOP Language: inheritance = 1, TIOBE - 90.000000, year - 1979, common - 659
+497: It is a OOP Language: inheritance = 1, TIOBE - 51.000000, year - 1953, common - 651
+498: It is a Functional Language: typization = 1, lazy = 0, TIOBE - 85.000000, year - 1955, common - 195
+499: It is a OOP Language: inheritance = 0, TIOBE - 40.000000, year - 1963, common - 654
+500: It is a Functional Language: typization = 0, lazy = 1, TIOBE - 53.000000, year - 1969, common - 196

@@ -1,0 +1,6 @@
+Filled container:
+Container contains 4 elements.
+1: It is a Procedure Language: abstract = 0, TIOBE - 45.000000, year - 1985, common - 220
+2: It is a Functional Language: typization = 1, lazy = 1, TIOBE - 56.000000, year - 2001, common - 200
+3: It is a OOP Language: inheritance = 1, TIOBE - 31.000000, year - 2015, common - 671
+4: It is a Procedure Language: abstract = 0, TIOBE - 36.000000, year - 2010, common - 223

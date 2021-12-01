@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c_asm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/antonzaripov/CLionProjects/c_asm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/antonzaripov/CLionProjects/c_asm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/antonzaripov/CLionProjects/c_asm"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_asm">
+				<Option output="/Users/antonzaripov/CLionProjects/c_asm/c_asm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonzaripov/CLionProjects/c_asm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 c_asm"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_asm/fast">
+				<Option output="/Users/antonzaripov/CLionProjects/c_asm/c_asm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antonzaripov/CLionProjects/c_asm"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 c_asm/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/antonzaripov/CLionProjects/c_asm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/OOP.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/OOP.h">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/container.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/container.h">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/functional.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/functional.h">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/language.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/language.h">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/main.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/procedure.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/procedure.h">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/rnd.c">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/rnd.h">
+			<Option target="c_asm"/>
+		</Unit>
+		<Unit filename="/Users/antonzaripov/CLionProjects/c_asm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
